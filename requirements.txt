@@ -1,0 +1,9 @@
+rich
+pwinput
+speechrecognition
+pyttsx3
+sounddevice
+scipy
+librosa
+rapidfuzz
+pytest
