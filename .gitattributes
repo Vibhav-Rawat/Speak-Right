@@ -1,1 +1,2 @@
 database.py linguist-language=SQL
+*.py linguist-detectable=true
